@@ -16,8 +16,7 @@
       "@/*": ["*"],
       "@/tests/*": ["../tests/*"]
     },
-    "allowJs": true,
-    "resolveJsonModule": true
+    "allowJs": true
   },
   "include": ["src", "tests"],
   "exclude": ["tests/e2e/cypress"]
